@@ -1,0 +1,9 @@
+scapy
+prettytable
+mac-vendor-lookup
+progressbar2
+termcolor
+pyfiglet
+requests
+dnspython
+whois
